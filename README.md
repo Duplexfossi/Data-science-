@@ -41,7 +41,7 @@ Spécialisé en modélisation mathématique et Data Science, avec un focus sur l
 * **Impact Décisionnel :** Rédaction d'une note stratégique à l'attention des autorités sanitaires pour la priorisation géographique basée sur des seuils d'altitude prédictifs.
 * **Tech :** `Python`, `Statsmodels`, `MCO / GLM`, `Optimisation AIC`
 
-🔗 [Consulter le projet](https://duplexfossi.github.io/-Malaria-Vector-Control-Strategy-Geospatial-Targeting/)
+🔗 [Consulter le projet](https://duplexfossi.github.io/Malaria/)
 
 ---
 
