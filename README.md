@@ -46,7 +46,7 @@ Spécialisé en modélisation mathématique et Data Science, avec un focus sur l
 * **Decision Impact:** Authored a strategic decision memo for health authorities on geographic prioritization based on predictive altitude cutoffs.
 * **Tech:** `Python`, `Statsmodels`, `OLS / GLM`, `AIC Optimization`
 
-🔗 [View GitHub Repository](https://github.com/Duplexfossi/NOM_DU_REPO_PALUDISME)
+🔗 [View project]([https://github.com/Duplexfossi/NOM_DU_REPO_PALUDISME](https://duplexfossi.github.io/-Malaria-Vector-Control-Strategy-Geospatial-Targeting/))
 
 ---
 
@@ -56,7 +56,7 @@ Spécialisé en modélisation mathématique et Data Science, avec un focus sur l
 * **Decision Impact:** Conducted cost-effectiveness arbitration guiding public health investment between borehole repair vs. hygiene kit distribution.
 * **Tech:** `Python`, `Logistic Regression`, `Odds Ratio Analysis`, `Risk Modeling`
 
-🔗 [View GitHub Repository](https://github.com/Duplexfossi/NOM_DU_REPO_CHOLERA)
+🔗 [View project](https://github.com/Duplexfossi/NOM_DU_REPO_CHOLERA)
 
 ---
 
