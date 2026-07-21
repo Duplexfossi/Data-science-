@@ -1,6 +1,6 @@
 title: "Portfolio - Edmond Fossi"
 description: "Data Scientist | Mathématicien Appliqué"
-theme: jekyll-theme-merlot # Thèmes : cayman, minima, slate, midnight, etc.
+theme: jekyll-theme-minimal # Thèmes : cayman, minima, slate, midnight, etc.
 header_pages:
   - index.md
 
