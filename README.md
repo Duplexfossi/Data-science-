@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="tof.jpg" alt="Edmond Fossi" width="160" style="border-radius: 50%;">
-</p>
-# Fossi Deffo Edmond Duplex
-
 **Data Scientist** | **Applied Mathematician** | **Machine Learning Researcher**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edmond_Fossi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/edmond-fossi-891829324)
