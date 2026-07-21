@@ -1,6 +1,6 @@
 # Fossi Deffo Edmond Duplex
 
-**Data Scientist | Applied Mathematician | Machine Learning Researcher**
+**Data Scientist** | **Applied Mathematician** | **Machine Learning Researcher**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edmond_Fossi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/edmond-fossi-891829324)
 [![Email](https://img.shields.io/badge/Email-fossiedmond8%40gmail.com-red?style=flat&logo=gmail)](mailto:fossiedmond8@gmail.com)
